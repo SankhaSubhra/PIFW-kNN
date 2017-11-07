@@ -1,4 +1,4 @@
-#A MATLAB implementation of PIFW-kNN.
+"A MATLAB implementation of PIFW-kNN."
 Written by: Nimagna Biswas and Saurajit Chakraborty.
 
 Reference: Nimagna Biswas, Saurajit Chakraborty, Sankha Subhra Mullick, and Swagatam Das,
