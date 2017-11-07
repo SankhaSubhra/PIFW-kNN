@@ -13,15 +13,17 @@ rik.stxaviers@gmail.com (Saurajit Chakraborty).
 =============================================================================================
 
 DESCRIPTION:
->> The package contains 7 functions, 1 script and 1 sample dataset from UCI repository [1].
+>> The package contains 9 functions, 1 script and 1 sample dataset from UCI repository [1].
 >> pifwknn.m: The main script.
 >> shade.m: Implementation of SHADE [2].
 >> fitness.m. Calculates the leave-one-ot error for a value of k and set of class specific feature weights.
 >> wtdistance.m: Claculates weighted distance as described in the corresponding article.
+>> membership_assignment.m: Calculates the fuzzy membership matrix.
 >> fuzzy_knn.m: Supporting function.
 >> extract.m: Supporting function.
 >> wt_Mean.m: Supporting function.
 >> wt_Lehmer_Mean.m: Supporting function.
+>> cauchy_rand.m: Supporting function.
 >> Balance_Scale.mat: Example dataset.
 
 =============================================================================================
