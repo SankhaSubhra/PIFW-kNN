@@ -29,6 +29,6 @@ DEPENDENCIES:
 =============================================================================================
 
 REFERENCE:
-[1] Lichman, M., 2013. UCI machine learning repository. URL: http://archive.ics.uci.edu/ml.
-[2] Tanabe, R., Fukunaga, A., 2013. Success-history based parameter adaptation
+>> [1] Lichman, M., 2013. UCI machine learning repository. URL: http://archive.ics.uci.edu/ml.
+>> [2] Tanabe, R., Fukunaga, A., 2013. Success-history based parameter adaptation
 for differential evolution, in: IEEE CEC, pp. 71–78.
