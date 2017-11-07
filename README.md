@@ -1,7 +1,7 @@
-"A MATLAB implementation of PIFW-kNN."
-Written by: Nimagna Biswas and Saurajit Chakraborty.
+# A MATLAB implementation of PIFW-kNN.
+## Written by: Nimagna Biswas and Saurajit Chakraborty.
 
-Reference: Nimagna Biswas, Saurajit Chakraborty, Sankha Subhra Mullick, and Swagatam Das,
+### Reference: Nimagna Biswas, Saurajit Chakraborty, Sankha Subhra Mullick, and Swagatam Das,
 A Parameter Independent Fuzzy Weighted k-Nearest Neighbor Classifier,
 Pattern Recognition Letters, November, 2017.
 Contact: nimagna0072@gmail.com (Nimagna Biswas), 
